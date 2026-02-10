@@ -1,38 +1,5 @@
-oxyos-icon-theme (13.0) unstable; urgency=low
+oxyos-icon-theme (1.0) trixie; urgency=medium
 
-  * Patched in the few changes from trixie faenza
+  * Initial OxyOS release.
 
- -- Ben Young <hello@oxy.so>  Sun, 08 Jun 2025 17:53:30 -0800
-
-oxyos-icon-theme (12.0) unstable; urgency=low
-
-  * Rebased on bookworm faenza dist
-
- -- Ben Young <hello@oxy.so>  Sun, 14 May 2023 17:53:30 -0800
-
-oxyos-icon-theme (11.0) unstable; urgency=low
-
-  * Rebased on bullseye faenza dist
-
- -- Ben Young <hello@oxy.so>  Wed, 21 Apr 2021 16:42:30 -0800
-
-oxyos-icon-theme (10.0) unstable; urgency=low
-
-  * Killed some extras, dupes, and deprecated icons
-
- -- Ben Young <hello@oxy.so>  Sat, 11 May 2019 22:11:30 -0800
-
-oxyos-icon-theme (9.0) unstable; urgency=low
-
-  * Nine-ify
-  * Rebased icon theme on latest Faenza
-  * Dropped the "Dark" theme
-
- -- Ben Young <hello@oxy.so>  Fri, 27 Feb 2017 23:23:30 -0800
-
-oxyos-icon-theme (1.0) unstable; urgency=low
-
-  * Initial Release.
-  * Repackaged from faenza-oxyos-icon-theme with newer Debian standards.
-
- -- Ben Young <hello@oxy.so>  Wed, 18 Feb 2015 21:31:30 -0600
+ -- OxyHQ <hello@oxy.so>  Mon, 10 Feb 2026 00:00:00 +0000
