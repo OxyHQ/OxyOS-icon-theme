@@ -1,13 +1,13 @@
-Source: cbpp-icon-theme
+Source: oxyos-icon-theme
 Section: x11
 Priority: optional
-Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
+Maintainer: OxyHQ <contact@oxyhq.com>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.5
-Homepage: https://crunchbangplusplus.org
+Homepage: https://github.com/OxyHQ/OxyOS-icon-theme
 
-Package: cbpp-icon-theme
+Package: oxyos-icon-theme
 Architecture: all
 Depends: ${misc:Depends}
 Description: Icon theme with tilish style, by Tiheum
- Default icon themes for use with CrunchBangPlusPlus.
+ Default icon themes for use with OxyOS.

@@ -1,5 +1,5 @@
-# cbpp-icon-theme
-Default icon themes for use with CrunchBangPlusPlus.
+# oxyos-icon-theme
+Default icon themes for use with OxyOS.
 
 Really it's just a copy of Faenza-Darker -> Faenza-Dark -> Faenza, then
 greyscaled `/places` with:
