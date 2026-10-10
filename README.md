@@ -1,6 +1,6 @@
 # oxyos-icon-theme
 
-Default icon themes for use with [OxyOS](https://os.oxy.so).
+Default icon themes for use with [OxyOS](https://oxy.so/os).
 
 Based on a copy of Faenza-Darker -> Faenza-Dark -> Faenza, with greyscaled `/places` icons using:
 
@@ -10,4 +10,4 @@ for i in $(find . -type f -name "*.svg"); do echo $i; inkscape --batch-process -
 ```
 
 ---
-Part of [OxyOS](https://os.oxy.so) | [GitHub](https://github.com/OxyHQ)
+Part of [OxyOS](https://oxy.so/os) | [GitHub](https://github.com/OxyHQ)
